@@ -556,9 +556,6 @@ footer span a:hover{
     .services .serv-content .card{
         width: 100%;
     }
-    .home{
-      left: -100px;
-    }
 }
 
 @media (max-width: 500px) {
