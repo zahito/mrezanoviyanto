@@ -166,7 +166,7 @@ section .title::after{
 .home{
     display: flex;
     background: url("images/banner.png") no-repeat center;
-    height: 100vh;
+    height: 100%;
     color: #fff;
     min-height: 300px;
     background-size: cover;
