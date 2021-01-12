@@ -318,7 +318,7 @@ section .title::after{
 .skills .skills-content .left a{
     display: inline-block;
     background: crimson;
-    color: #fff;
+    color: #343d37;
     font-size: 18px;
     font-weight: 500;
     padding: 8px 16px;
