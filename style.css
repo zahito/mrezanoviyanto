@@ -380,7 +380,8 @@ section .title::after{
     color: #333;
 }
 .contact .contact-content .right img{
-   margin-left: 50px;
+   margin-left: 150px;
+   margin-right: 150px;
    margin-bottom: 10px;
     height: 250px;
     width: 300px;
