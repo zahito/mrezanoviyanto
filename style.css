@@ -520,6 +520,7 @@ footer span a:hover{
     .contact .right img .name,
     .contact .right img .email{
         margin: 0;
+        margin-left: 0;
     }
     .scroll-up-btn{
         right: 15px;
