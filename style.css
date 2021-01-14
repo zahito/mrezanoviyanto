@@ -381,8 +381,6 @@ section .title::after{
 }
 .contact .contact-content .right img{
    margin-left: 150px;
-   margin-right: 150px;
-   margin-bottom: 10px;
     height: 250px;
     width: 300px;
 }
@@ -519,8 +517,8 @@ footer span a:hover{
     .contact .right form .fields{
         flex-direction: column;
     }
-    .contact .right form .name,
-    .contact .right form .email{
+    .contact .right img .name,
+    .contact .right img .email{
         margin: 0;
     }
     .scroll-up-btn{
